@@ -2,6 +2,7 @@
 Kode og data til analyse og backtest i afhandlingen om Betting Against Beta
 
 ** Backtesting analyse kode **
+-
 I denne fil findes alt kode vedrørende de 49 industriporteføljer. I koden findes der 
 - Beregning af BAB & SDBAB
 - Beregning af P1-P10
@@ -42,6 +43,7 @@ P1-P10 (Log / ikke log)
 Ved ændring i nogle af ovenstående parametre kan der forekomme ændringer i længderne af forskellige vektorere, som skal ændres manuelt.
 
 ** Empirisk analyse kode **
+-
 I denne fil findes alt kode vedrørende det empiriske data. I koden findes der 
 - Beregning af BAB & SDBAB
 - Beregning af P1-P10
@@ -81,5 +83,6 @@ P1-P10 (Log / ikke log)
 Ved ændring i nogle af ovenstående parametre kan der forekomme ændringer i længderne af forskellige vektorere, som skal ændres manuelt.
 
 ** Kumulativ afkast - shrinkage faktor **
+-
 I denne fil kan man få et overblik over BAB-strategiens kumulative afkast med forskellige shrinkage faktorer 
 
